@@ -18,6 +18,8 @@ Moreover, the United Nations Simulator GPT is equipped to answer questions about
 [Standard Government](https://chatgpt.com/g/g-DvKNjRFg1-standard-government)
 <br>
 [Diplomatic Simulator](https://chat.openai.com/g/g-xhsONox3U-diplomatic-simulator)
+<br>
+[GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
