@@ -1,6 +1,6 @@
 ![United Nations Simulator](https://github.com/user-attachments/assets/34b5d4e0-d63f-42f0-a906-aa7bb38e5e60)
 
-> Simulate international meetings, assemblies and events hosted by the United Nations.
+> Simulate international meetings, assemblies and events organized by the United Nations.
 
 #
 
