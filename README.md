@@ -11,6 +11,10 @@ In addition to simulating meetings, this custom GPT can present reports, draft s
 Moreover, the United Nations Simulator GPT is equipped to answer questions about international law, historical contexts, and specific geopolitical scenarios. It can role-play various UN member states, presenting their perspectives and policy positions in a manner consistent with their real-world counterparts. This capability makes it an excellent tool for educational purposes, training simulations, and enhancing the understanding of international diplomacy. By fostering a nuanced appreciation of global issues, the GPT helps users engage with the intricacies of the United Nations and its critical role in promoting peace and cooperation worldwide.
 
 #
+
+> Alex: "*Using other custom GPTs like [Personality Template](https://github.com/sourceduty/Personality_Template), United Nations simulations could be expanded.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
