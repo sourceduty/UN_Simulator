@@ -98,163 +98,134 @@ UN Funds and Programmes
 ### The United Nations Simulation Model
 
 ```
-
 United Nations Simulation Model
 --------------------------------------------------
 
 1. Member Countries
-
-- Detailed Profiles
-  - Country History
-  - Economic Data
-  - Social Indicators
-
-- Political Stance
-  - Foreign Policy
-  - Domestic Policies
-  - Key Alliances and Rivalries
-
-- Key Representatives
-  - Heads of State/Government
-  - Foreign Ministers
-  - Key Diplomats
+    ├── Detailed Profiles
+    │   ├── Country History
+    │   ├── Economic Data
+    │   └── Social Indicators
+    ├── Political Stance
+    │   ├── Foreign Policy
+    │   ├── Domestic Policies
+    │   └── Key Alliances and Rivalries
+    └── Key Representatives
+        ├── Heads of State/Government
+        ├── Foreign Ministers
+        └── Key Diplomats
 
 2. Politicians
-
-- Detailed Profiles
-  - Personal Background
-  - Political Career
-  - Key Achievements
-
-- Affiliations and Key Issues
-  - Political Parties
-  - Major Legislative Interests
-  - Personal and Party Platforms
-
-- Summaries of Recent Speeches
-  - Speech Content
-  - Key Themes
-  - Public and Media Reactions
+    ├── Detailed Profiles
+    │   ├── Personal Background
+    │   ├── Political Career
+    │   └── Key Achievements
+    ├── Affiliations and Key Issues
+    │   ├── Political Parties
+    │   ├── Major Legislative Interests
+    │   └── Personal and Party Platforms
+    └── Summaries of Recent Speeches
+        ├── Speech Content
+        ├── Key Themes
+        └── Public and Media Reactions
 
 3. General Assembly Sessions
-
-- Agendas
-  - Scheduled Topics
-  - Priority Issues
-  - Special Sessions
-
-- Member Speeches
-  - Speech Content
-  - Speaker Profiles
-  - Reaction and Impact
-
-- Resolution Proposals
-  - Proposed Resolutions
-  - Supporting Documents
-  - Stakeholder Positions
-
-- Voting Procedures
-  - Voting Rules
-  - Procedures for Proposal and Amendment
-  - Results and Statistics
+    ├── Agendas
+    │   ├── Scheduled Topics
+    │   ├── Priority Issues
+    │   └── Special Sessions
+    ├── Member Speeches
+    │   ├── Speech Content
+    │   ├── Speaker Profiles
+    │   └── Reaction and Impact
+    ├── Resolution Proposals
+    │   ├── Proposed Resolutions
+    │   ├── Supporting Documents
+    │   └── Stakeholder Positions
+    └── Voting Procedures
+        ├── Voting Rules
+        ├── Procedures for Proposal and Amendment
+        └── Results and Statistics
 
 4. Security Council Meetings
-
-- Agendas
-  - Scheduled Discussions
-  - Emergency Sessions
-  - Thematic Focus Areas
-
-- Discussions
-  - Meeting Transcripts
-  - Key Debates
-  - Stakeholder Positions
-
-- Resolution Proposals
-  - Draft Resolutions
-  - Amendment Proposals
-  - Voting Outcomes
-
-- Voting Results
-  - Detailed Vote Counts
-  - Member Votes
-  - Resolutions Passed/Rejected
+    ├── Agendas
+    │   ├── Scheduled Discussions
+    │   ├── Emergency Sessions
+    │   └── Thematic Focus Areas
+    ├── Discussions
+    │   ├── Meeting Transcripts
+    │   ├── Key Debates
+    │   └── Stakeholder Positions
+    ├── Resolution Proposals
+    │   ├── Draft Resolutions
+    │   ├── Amendment Proposals
+    │   └── Voting Outcomes
+    └── Voting Results
+        ├── Detailed Vote Counts
+        ├── Member Votes
+        └── Resolutions Passed/Rejected
 
 5. Committee Sessions
-
-- Structured Agendas
-  - Meeting Objectives
-  - Discussion Topics
-  - Special Reports
-
-- Reporting Formats
-
-  - Committee Reports
-  - Recommendations
-  - Follow-up Actions
+    ├── Structured Agendas
+    │   ├── Meeting Objectives
+    │   ├── Discussion Topics
+    │   └── Special Reports
+    └── Reporting Formats
+        ├── Committee Reports
+        ├── Recommendations
+        └── Follow-up Actions
 
 6. Data Management
-
-- Structured Database
-  - Data Collection Methods
-  - Data Storage Solutions
-  - Security Protocols
-
-- Detailed Profiles
-  - Comprehensive Data on Members
-  - Historical Records
-  - Analytical Tools
+    ├── Structured Database
+    │   ├── Data Collection Methods
+    │   ├── Data Storage Solutions
+    │   └── Security Protocols
+    └── Detailed Profiles
+        ├── Comprehensive Data on Members
+        ├── Historical Records
+        └── Analytical Tools
 
 7. Simulation Engine
-
-- Manage Session Schedules
-  - Calendar Integration
-  - Session Timing and Duration
-  - Conflict Resolution
-
-- Generate Agendas
-  - Automated Agenda Creation
-  - Customizable Templates
-  - Prioritization of Issues
-
-- Simulate Interactions
-  - Role-Playing Scenarios
-  - Interaction Models
-  - Scenario Outcomes
+    ├── Manage Session Schedules
+    │   ├── Calendar Integration
+    │   ├── Session Timing and Duration
+    │   └── Conflict Resolution
+    ├── Generate Agendas
+    │   ├── Automated Agenda Creation
+    │   ├── Customizable Templates
+    │   └── Prioritization of Issues
+    └── Simulate Interactions
+        ├── Role-Playing Scenarios
+        ├── Interaction Models
+        └── Scenario Outcomes
 
 8. User Interface
-
-- Input Data
-  - Data Entry Forms
-  - Import and Export Features
-  - Validation and Error Checking
-
-- Manage Sessions
-  - Scheduling Tools
-  - Session Management Dashboard
-  - Notifications and Reminders
-
-- View Outcomes
-  - Result Dashboards
-  - Analysis Tools
-  - Reporting Features
+    ├── Input Data
+    │   ├── Data Entry Forms
+    │   ├── Import and Export Features
+    │   └── Validation and Error Checking
+    ├── Manage Sessions
+    │   ├── Scheduling Tools
+    │   ├── Session Management Dashboard
+    │   └── Notifications and Reminders
+    └── View Outcomes
+        ├── Result Dashboards
+        ├── Analysis Tools
+        └── Reporting Features
 
 9. Testing and Iteration
-
-- Initial Trial Runs
-  - Pilot Testing Scenarios
-  - Debugging and Issue Identification
-  - Performance Metrics
-
-- Collect Feedback
-  - User Surveys
-  - Performance Reviews
-  - Improvement Suggestions
-
-- Iterative Improvements
-  - Version Updates
-  - Bug Fixes
-  - Feature Enhancements
+    ├── Initial Trial Runs
+    │   ├── Pilot Testing Scenarios
+    │   ├── Debugging and Issue Identification
+    │   └── Performance Metrics
+    ├── Collect Feedback
+    │   ├── User Surveys
+    │   ├── Performance Reviews
+    │   └── Improvement Suggestions
+    └── Iterative Improvements
+        ├── Version Updates
+        ├── Bug Fixes
+        └── Feature Enhancements
 ```
 
 #
