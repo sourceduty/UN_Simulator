@@ -14,6 +14,8 @@ Moreover, the United Nations Simulator GPT is equipped to answer questions about
 ### Example Usage
 
 [General Assembly Session on Climate Change and Environmental Policy.txt](https://github.com/user-attachments/files/16421165/General.Assembly.Session.on.Climate.Change.and.Environmental.Policy.txt)
+<br>
+[ECOSOC_Meeting_Simulation.txt](https://github.com/user-attachments/files/16421245/ECOSOC_Meeting_Simulation.txt)
 
 #
 
