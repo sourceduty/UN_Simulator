@@ -64,7 +64,9 @@ Trusteeship Council
 UN Specialized Agencies
 
 - Independent international organizations working with the UN.
+
 Examples include:
+
   - World Health Organization (WHO) - Focuses on global health issues.
   - United Nations Educational, Scientific and Cultural Organization (UNESCO) - Promotes education, science, and culture.
   - International Monetary Fund (IMF) - Works to foster global monetary cooperation and financial stability.
@@ -74,7 +76,9 @@ Examples include:
 UN Programs and Bodies
 
 - Various UN programs and bodies address specific issues and needs.
-- Examples include:
+
+Examples include:
+
   - United Nations Development Programme (UNDP) - Focuses on global development and poverty reduction.
   - United Nations High Commissioner for Refugees (UNHCR) - Provides protection and assistance to refugees.
   - United Nations Environment Programme (UNEP) - Addresses environmental issues and promotes sustainable development.
