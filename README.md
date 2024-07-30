@@ -28,36 +28,43 @@ Together, these templates enable the custom GPT to create comprehensive and auth
 United Nations
 |
 General Assembly
+
 - The main deliberative body where all 193 member states have a voice.
 - Meets annually in September for its regular session.
 |
 Security Council
+
 - Maintains international peace and security.
 - Consists of 15 members: 5 permanent (China, France, Russia, the United Kingdom, the United States) and 10 elected for two-year terms.
 - Can impose sanctions or authorize the use of force.
 |
 Secretariat
+
 - The administrative arm of the UN.
 - Headed by the Secretary-General.
 - Handles day-to-day operations and implements decisions of the UN.
 |
 International Court of Justice
+
 - The principal judicial organ of the UN.
 - Located in The Hague, Netherlands.
 - Settles legal disputes between states and gives advisory opinions on legal questions referred to it by the UN.
 |
 Economic and Social Council (ECOSOC)
+
 - Coordinates economic, social, and related work.
 - Consists of 54 members elected for three-year terms.
 - Oversees various specialized agencies and commissions.
 |
 Trusteeship Council
+
 - Established to oversee the administration of trust territories.
 - Its operations have been suspended as all trust territories have attained self-government or independence.
 |
 UN Specialized Agencies
+
 - Independent international organizations working with the UN.
-- Examples include:
+Examples include:
   - World Health Organization (WHO) - Focuses on global health issues.
   - United Nations Educational, Scientific and Cultural Organization (UNESCO) - Promotes education, science, and culture.
   - International Monetary Fund (IMF) - Works to foster global monetary cooperation and financial stability.
@@ -65,6 +72,7 @@ UN Specialized Agencies
   - United Nations International Children's Emergency Fund (UNICEF) - Provides humanitarian aid to children worldwide.
 |
 UN Programs and Bodies
+
 - Various UN programs and bodies address specific issues and needs.
 - Examples include:
   - United Nations Development Programme (UNDP) - Focuses on global development and poverty reduction.
@@ -81,126 +89,154 @@ United Nations Simulation Model
 --------------------------------------------------
 
 1. Member Countries
+
 - Detailed Profiles
   - Country History
   - Economic Data
   - Social Indicators
+
 - Political Stance
   - Foreign Policy
   - Domestic Policies
   - Key Alliances and Rivalries
+
 - Key Representatives
   - Heads of State/Government
   - Foreign Ministers
   - Key Diplomats
 
 2. Politicians
+
 - Detailed Profiles
   - Personal Background
   - Political Career
   - Key Achievements
+
 - Affiliations and Key Issues
   - Political Parties
   - Major Legislative Interests
   - Personal and Party Platforms
+
 - Summaries of Recent Speeches
   - Speech Content
   - Key Themes
   - Public and Media Reactions
 
 3. General Assembly Sessions
+
 - Agendas
   - Scheduled Topics
   - Priority Issues
   - Special Sessions
+
 - Member Speeches
   - Speech Content
   - Speaker Profiles
   - Reaction and Impact
+
 - Resolution Proposals
   - Proposed Resolutions
   - Supporting Documents
   - Stakeholder Positions
+
 - Voting Procedures
   - Voting Rules
   - Procedures for Proposal and Amendment
   - Results and Statistics
 
 4. Security Council Meetings
+
 - Agendas
   - Scheduled Discussions
   - Emergency Sessions
   - Thematic Focus Areas
+
 - Discussions
   - Meeting Transcripts
   - Key Debates
   - Stakeholder Positions
+
 - Resolution Proposals
   - Draft Resolutions
   - Amendment Proposals
   - Voting Outcomes
+
 - Voting Results
   - Detailed Vote Counts
   - Member Votes
   - Resolutions Passed/Rejected
 
 5. Committee Sessions
+
 - Structured Agendas
   - Meeting Objectives
   - Discussion Topics
   - Special Reports
+
 - Reporting Formats
+
   - Committee Reports
   - Recommendations
   - Follow-up Actions
 
 6. Data Management
+
 - Structured Database
   - Data Collection Methods
   - Data Storage Solutions
   - Security Protocols
+
 - Detailed Profiles
   - Comprehensive Data on Members
   - Historical Records
   - Analytical Tools
 
 7. Simulation Engine
+
 - Manage Session Schedules
   - Calendar Integration
   - Session Timing and Duration
   - Conflict Resolution
+
 - Generate Agendas
   - Automated Agenda Creation
   - Customizable Templates
   - Prioritization of Issues
+
 - Simulate Interactions
   - Role-Playing Scenarios
   - Interaction Models
   - Scenario Outcomes
 
 8. User Interface
+
 - Input Data
   - Data Entry Forms
   - Import and Export Features
   - Validation and Error Checking
+
 - Manage Sessions
   - Scheduling Tools
   - Session Management Dashboard
   - Notifications and Reminders
+
 - View Outcomes
   - Result Dashboards
   - Analysis Tools
   - Reporting Features
 
 9. Testing and Iteration
+
 - Initial Trial Runs
   - Pilot Testing Scenarios
   - Debugging and Issue Identification
   - Performance Metrics
+
 - Collect Feedback
   - User Surveys
   - Performance Reviews
   - Improvement Suggestions
+
 - Iterative Improvements
   - Version Updates
   - Bug Fixes
