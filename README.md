@@ -31,6 +31,8 @@ Moreover, the United Nations Simulator GPT is equipped to answer questions about
 [Diplomatic Simulator](https://chat.openai.com/g/g-xhsONox3U-diplomatic-simulator)
 <br>
 [GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
+<br>
+[National Template](https://github.com/sourceduty/National_Template)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
