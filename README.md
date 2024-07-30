@@ -27,61 +27,66 @@ Together, these templates enable the custom GPT to create comprehensive and auth
 ```
 United Nations
 |
+|-- General Assembly
+|   |-- Main deliberative body of the UN
+|   |-- Composed of all 193 member states
+|   |-- Functions include discussing and coordinating on international issues
+|
+|-- Security Council
+|   |-- Responsible for maintaining international peace and security
+|   |-- Composed of 15 members: 5 permanent (China, France, Russia, the UK, the US) and 10 elected for two-year terms
+|   |-- Can impose sanctions and authorize military action
+|
+|-- International Court of Justice
+|   |-- Judicial branch of the UN
+|   |-- Settles legal disputes between states
+|   |-- Provides advisory opinions on legal questions referred to it by the UN
+|
+|-- Secretariat
+|   |-- Administrative body of the UN
+|   |-- Led by the Secretary-General
+|   |-- Implements decisions made by other UN organs
+|
+|-- Economic and Social Council (ECOSOC)
+|   |-- Coordinates the UN's economic, social, and related work
+|   |-- Composed of 54 members elected for three-year terms
+|   |-- Handles issues like development, human rights, and international cooperation
+|
+|-- Trusteeship Council (Inactive)
+|   |-- Initially established to oversee the administration of trust territories
+|   |-- Currently inactive as all trust territories have achieved self-government
+|
+|-- UN Specialized Agencies
+|   |-- Independent organizations linked to the UN through agreements
+|   |-- Examples:
+|       |-- World Health Organization (WHO)
+|       |-- International Monetary Fund (IMF)
+|       |-- World Bank Group
+|       |-- United Nations Educational, Scientific and Cultural Organization (UNESCO)
+|
+|-- UN Funds and Programmes
+|   |-- Provide aid and support in various areas
+|   |-- Examples:
+|       |-- United Nations Children's Fund (UNICEF)
+|       |-- United Nations Development Programme (UNDP)
+|       |-- United Nations High Commissioner for Refugees (UNHCR)
+```
+```
 General Assembly
-
-- The main deliberative body where all 193 member states have a voice.
-- Meets annually in September for its regular session.
 |
 Security Council
-
-- Maintains international peace and security.
-- Consists of 15 members: 5 permanent (China, France, Russia, the United Kingdom, the United States) and 10 elected for two-year terms.
-- Can impose sanctions or authorize the use of force.
-|
-Secretariat
-
-- The administrative arm of the UN.
-- Headed by the Secretary-General.
-- Handles day-to-day operations and implements decisions of the UN.
 |
 International Court of Justice
-
-- The principal judicial organ of the UN.
-- Located in The Hague, Netherlands.
-- Settles legal disputes between states and gives advisory opinions on legal questions referred to it by the UN.
+|
+Secretariat
 |
 Economic and Social Council (ECOSOC)
-
-- Coordinates economic, social, and related work.
-- Consists of 54 members elected for three-year terms.
-- Oversees various specialized agencies and commissions.
 |
-Trusteeship Council
-
-- Established to oversee the administration of trust territories.
-- Its operations have been suspended as all trust territories have attained self-government or independence.
+Trusteeship Council (Inactive)
 |
 UN Specialized Agencies
-
-- Independent international organizations working with the UN.
-
-Examples include:
-
-  - World Health Organization (WHO) - Focuses on global health issues.
-  - United Nations Educational, Scientific and Cultural Organization (UNESCO) - Promotes education, science, and culture.
-  - International Monetary Fund (IMF) - Works to foster global monetary cooperation and financial stability.
-  - International Labour Organization (ILO) - Deals with labor issues, particularly international labor standards.
-  - United Nations International Children's Emergency Fund (UNICEF) - Provides humanitarian aid to children worldwide.
 |
-UN Programs and Bodies
-
-- Various UN programs and bodies address specific issues and needs.
-
-Examples include:
-
-  - United Nations Development Programme (UNDP) - Focuses on global development and poverty reduction.
-  - United Nations High Commissioner for Refugees (UNHCR) - Provides protection and assistance to refugees.
-  - United Nations Environment Programme (UNEP) - Addresses environmental issues and promotes sustainable development.
+UN Funds and Programmes
 ```
 
 #
