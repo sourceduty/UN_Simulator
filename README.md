@@ -24,7 +24,7 @@ Together, these templates enable the custom GPT to create comprehensive and auth
 #
 ### The United Nations Architecture
 
-Low-level Diagram
+Low-Level Diagram
 
 ```
 United Nations
@@ -74,7 +74,7 @@ United Nations
 |       |-- United Nations High Commissioner for Refugees (UNHCR)
 ```
 
-High-level Diagram
+High-Level Diagram
 
 ```
 General Assembly
