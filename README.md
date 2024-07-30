@@ -11,6 +11,17 @@ In addition to simulating meetings, this custom GPT can present reports, draft s
 Moreover, the United Nations Simulator GPT is equipped to answer questions about international law, historical contexts, and specific geopolitical scenarios. It can role-play various UN member states, presenting their perspectives and policy positions in a manner consistent with their real-world counterparts. This capability makes it an excellent tool for educational purposes, training simulations, and enhancing the understanding of international diplomacy. By fostering a nuanced appreciation of global issues, the GPT helps users engage with the intricacies of the United Nations and its critical role in promoting peace and cooperation worldwide.
 
 #
+### Simulation Templates
+
+The Personality Template and National Template can be utilized in conjunction with this custom GPT to enhance its ability to simulate international meetings and events hosted by the United Nations.
+
+The Personality Template facilitates the creation of detailed personal identity profiles by engaging users in conversations about their values, beliefs, and experiences. Integrating this into the custom GPT allows for the simulation of diverse and realistic individual perspectives, enhancing role-play and dialogue realism during UN simulations.
+
+The National Template, on the other hand, provides a framework for defining national identity profiles. This includes cultural, political, and economic attributes unique to each nation. By incorporating this template, the custom GPT can more accurately represent the stances and policies of different countries, ensuring that discussions and negotiations reflect real-world geopolitical dynamics.
+
+Together, these templates enable the custom GPT to create comprehensive and authentic simulations of UN meetings, with nuanced representations of both individual delegates and their respective countries. This enhances the educational and training value of the simulations, providing a more immersive and realistic experience.
+
+#
 ### Example Usage
 
 [General Assembly Session on Climate Change and Environmental Policy.txt](https://github.com/user-attachments/files/16421165/General.Assembly.Session.on.Climate.Change.and.Environmental.Policy.txt)
